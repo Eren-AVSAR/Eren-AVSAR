@@ -20,5 +20,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
+### 😂 Random Dev Meme
+<img src="(https://i.hizliresim.com/eg90l5s.png)">
 
 
